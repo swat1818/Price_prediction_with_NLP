@@ -1,0 +1,2 @@
+# Price_prediction_with_NLP
+Mercari is a Japanese two_sided marketplace where individual sellers sell used items. Mercari would like to offer pricing suggestions to its sellers, but this is tough because sellers are enabled to put just about anything on Mercari's marketplace. The idea is to build a model that automatically suggests the right product prices based on attributes. The objective is to gain a better understanding of price influencers for used products. 
